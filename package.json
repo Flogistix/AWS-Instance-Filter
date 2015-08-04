@@ -1,0 +1,16 @@
+{
+  "name": "aws-instance-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "control.monads": "^0.6.0",
+    "data.task": "^3.0.0",
+    "ramda": "^0.17.1"
+  }
+}
