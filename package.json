@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "control.monads": "^0.6.0",
+    "data.maybe": "^1.2.2",
     "data.task": "^3.0.0",
     "ramda": "^0.17.1"
   }
